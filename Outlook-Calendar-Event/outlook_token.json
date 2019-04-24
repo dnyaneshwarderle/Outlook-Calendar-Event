@@ -1,0 +1,32 @@
+
+{
+    "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFMVE16YWtpaGlSbGFfOHoyQkVKVlhlV01xbyJ9.eyJ2ZXIiOiIyLjAiLCJpc3MiOiJodHRwczovL2xvZ2luLm1pY3Jvc29mdG9ubGluZS5jb20vOTE4ODA0MGQtNmM2Ny00YzViLWIxMTItMzZhMzA0YjY2ZGFkL3YyLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFFSGFybUYwUVdjNFpEYzY1NVVwX1hjIiwiYXVkIjoiMzI2MTNmYzUtZTdhYy00ODk0LWFjOTQtZmJjMzljOWYzZTRhIiwiZXhwIjoxNTU0ODg4MDQwLCJpYXQiOjE1NTQ4MDEzNDAsIm5iZiI6MTU1NDgwMTM0MCwibmFtZSI6IkRueWFuZXNod2FyIERlcmxlIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiZGVybGUxMEBvdXRsb29rLmNvbSIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0zNDg4LWIzYTQ0MGNiMWFmYiIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImFpbyI6IkRSOVAzeEZyTlQ3SW1EVHJWd1cwVEVUN2hhM3ZVOVJ0c2d3dlZEYnY2RmlEandOeFNKaVA4RmlsdlB2bmRnVnE2TlB1enEwcFZSRnFzQU1vNkEhUTdQWm5DdUZBWmpHOXVYb0haUUdnQWZDKiJ9.PiMDZTMe-XC0iFW22d9X0Dr5pRSpVudUoM7JAjLGQRo1vMwNZ82T5mXxtAAecKzvkk_KVMvrkfO7pNRvZrNnnOKyjewu-Bl3y6Vt8pgr5ci2pgq1onApnqH8ewF2UNtJ1tiFfJYHQju_5o6RAkGLdUM58WghOFRN_oNqoDiaMA-GI1oab76L0tNICiLg8Ta0MUGwWhOuUiO29KIN6fheOtE95RnDNgZfSjNnEX0MX6j_i1xQgIRpk5ter_jYz4goMZZ_iGaBdnoZw0YaEDTUGFkcixMUupYjB4qVGIy15zhSt2Y7aJ8hi80W39gdXYoDNlDV8eMfqXE3ppxOdLUSCw",
+    "email":"derle10@outlook.com",
+    "newEvent": {  
+            "Subject": "My 2nd event",
+            "Body": {
+            "ContentType": "HTML",
+            "Content": "I think it will meet our requirements!"
+            },
+            "Start": {
+            "DateTime": "2019-04-16T18:00:00",
+            "TimeZone": "Eastern Standard Time"
+            },
+            "End": {
+            "DateTime": "2019-04-16T19:00:00",
+            "TimeZone": "Eastern Standard Time"
+            },
+            "Attendees": [
+            {
+                "EmailAddress": {
+                "Address": "derle10@outlook.com",
+                "Name": "Dnyaneshwar Derle"
+                },
+                "Type": "Required"
+            }
+            ] }
+
+}
+
+
+
